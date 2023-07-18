@@ -8,7 +8,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.lordapps.hallandwallpaper"
+        applicationId "com.lordapps.harrykanewallpaper"
         minSdk 21
         targetSdk 33
         versionCode 1
